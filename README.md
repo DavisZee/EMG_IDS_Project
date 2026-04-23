@@ -1,1 +1,7 @@
 ![Paper Page 1](/img/Page1.png)
+![Paper Page 2](/img/Page2.png)
+![Paper Page 3](/img/Page3.png)
+![Paper Page 4](/img/Page4.png)
+![Paper Page 5](/img/Page5.png)
+![Paper Page 6](/img/Page6.png)
+![Paper Page 7](/img/Page7.png)
