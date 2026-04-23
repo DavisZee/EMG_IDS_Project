@@ -1,7 +1,7 @@
-<img src="img/Page1.png" alt="Paper Page 1" width="100%">
-<img src="img/Page2.png" alt="Paper Page 2" width="100%">
-<img src="img/Page3.png" alt="Paper Page 3" width="100%">
-<img src="img/Page4.png" alt="Paper Page 4" width="100%">
-<img src="img/Page5.png" alt="Paper Page 5" width="100%">
-<img src="img/Page6.png" alt="Paper Page 6" width="100%">
-<img src="img/Page7.png" alt="Paper Page 7" width="100%">
+![Paper Page 1](/img/Page1.png)
+![Paper Page 2](/img/Page2.png)
+![Paper Page 3](/img/Page3.png)
+![Paper Page 4](/img/Page4.png)
+![Paper Page 5](/img/Page5.png)
+![Paper Page 6](/img/Page6.png)
+![Paper Page 7](/img/Page7.png)
